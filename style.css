@@ -1,13 +1,13 @@
-#div1{
+.div1{
     text-align: initial;
     margin-bottom: 10px;
 }
 
-#div2{
+.div2{
     text-align: center;
     margin-bottom: 10px;
 }
-#div3{
+.div3{
     text-align: end;
 }
 body{
