@@ -1,0 +1,26 @@
+#div1{
+    text-align: initial;
+    margin-bottom: 10px;
+}
+
+#div2{
+    text-align: center;
+    margin-bottom: 10px;
+}
+#div3{
+    text-align: end;
+}
+body{
+    background-color: darksalmon;
+}
+div{
+    margin: auto;
+    border: solid 1px;
+    width: 300px;
+    background-color: wheat;
+    
+}
+h3{
+    padding-left:5px;
+    padding-right: 5px;
+}
